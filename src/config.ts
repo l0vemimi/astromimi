@@ -2,10 +2,10 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astromimi.vercel.app/", // replace this with your deployed domain
-  author: "mimi",
+  author: "Sat Naing",
   profile: "https://astromimi.vercel.app/",
-  desc: "mimi",
-  title: "astromimi",
+  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  title: "AstroPaper",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -29,7 +29,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/l0vemimi",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
@@ -37,13 +37,13 @@ export const SOCIALS: SocialObjects = [
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
