@@ -1,9 +1,9 @@
 ---
 title: test
 author: mimi
-pubDatetime: 2024-14-11T03:42:51Z
+pubDatetime: 2024-11-14T03:42:51Z
 slug: test
-featured: false
+featured: true
 draft: false
 tags:
   - JavaScript
