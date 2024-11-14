@@ -27,14 +27,14 @@ canonical url (absolute), incase the article already exists on other source
 
 **default = Astro.site + Astro.url.pathname**
 
-### headings
+3. headings
 
 **headings should be in a h2 - h6** format because the blog posts use title as the main heading
 
-### using table of contents
+4. using table of contents
 
 the toc should be in h2
 
-### modifying a post
+5. modifying a post
 
 modDatetime should be added with the same iso 8601 format has the publish date time; this should only be added after a post is modified
