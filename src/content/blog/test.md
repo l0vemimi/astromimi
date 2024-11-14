@@ -6,18 +6,13 @@ slug: test
 featured: true
 draft: false
 tags:
-  - JavaScript
-  - ReactJS
-  - ContextAPI
-  - Styled-Components
-  - TypeScript
+  - test
 description:
   "test"
 ---
 
 # test title
 
-title: title
 
 i am writing this right now test 12345
 

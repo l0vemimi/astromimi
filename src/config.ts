@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astromimi.vercel.app/", // replace this with your deployed domain
   author: "mimi",
   profile: "https://astromimi.vercel.app/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "my thingy",
   title: "astromimi",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
