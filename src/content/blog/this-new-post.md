@@ -4,13 +4,12 @@ author: mimi
 pubDatetime: 2024-11-14T05:17:19Z
 modDatetime: 2024-11-14T12:00:19Z
 slug: post-layout
-featured: false
+featured: true
 draft: false
 tags:
   - archive
 ogImage: ""
 description: layout for blog posts
-canonicalURL: https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/
 ---
 
 ## table of contents
