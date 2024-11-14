@@ -9,7 +9,6 @@ tags:
   - some
   - example
   - tags
-ogImage: ""
 description: testing 1 1 1 1 ok.
 ---
 
