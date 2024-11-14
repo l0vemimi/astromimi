@@ -1,7 +1,7 @@
 ---
 title: post layout formatting
 author: mimi
-pubDatetime: 2024-11-14T12:00:19Z
+pubDatetime: 2024-11-01T12:00:19Z
 slug: post-layout-formattings
 featured: true
 draft: false
