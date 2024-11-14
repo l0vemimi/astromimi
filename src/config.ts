@@ -1,11 +1,11 @@
-import type { Site, SocialObjects } from "./types";
+import type { Site, SocialObjects } from "types";
 
 export const SITE: Site = {
   website: "https://astromimi.vercel.app/", // replace this with your deployed domain
-  author: "Sat Naing",
+  author: "mimi",
   profile: "https://astromimi.vercel.app/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "astromimi",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
