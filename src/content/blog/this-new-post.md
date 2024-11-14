@@ -2,7 +2,6 @@
 title: post layout
 author: mimi
 pubDatetime: 2024-11-14T05:17:19Z
-modDatetime: 2024-11-14T12:00:19Z
 slug: post-layout
 featured: true
 draft: false
@@ -37,3 +36,7 @@ canonical url (absolute), incase the article already exists on other source
 ### using table of contents
 
 the toc should be in h2
+
+### modifying a post
+
+modDatetime should be added with the same iso 8601 format has the publish date time; this should only be added after a post is modified
