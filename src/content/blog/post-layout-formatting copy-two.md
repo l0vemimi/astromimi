@@ -11,8 +11,6 @@ ogImage: ""
 description: layout for blog postst two
 ---
 
-## Table of contents
-
 ### other elements
 
 other elements are:
