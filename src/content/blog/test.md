@@ -7,8 +7,7 @@ featured: true
 draft: false
 tags:
   - test
-description:
-  "test"
+description: "test"
 ---
 
 # test title
