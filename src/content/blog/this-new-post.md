@@ -9,7 +9,7 @@ draft: false
 tags:
   - archive
 ogImage: ""
-description: testing 1 1 1 1 ok.
+description: layout for blog posts
 canonicalURL: https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/
 ---
 
