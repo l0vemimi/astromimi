@@ -9,7 +9,6 @@ tags:
   - some
   - example
   - tags
-ogImage: ""
 description: testing number TREE.
 ---
 
