@@ -3,7 +3,7 @@ title: post layout formatting
 author: mimi
 pubDatetime: 2024-11-10T09:00:00Z
 slug: post-layout-formattings
-featured: true
+featured: false
 draft: false
 tags:
   - archive
