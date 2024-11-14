@@ -1,8 +1,8 @@
 ---
-title: post layout
+title: post layout formatting
 author: mimi
-pubDatetime: 2024-11-14T05:17:19Z
-slug: post-layout
+pubDatetime: 2024-11-14T12:00:19Z
+slug: post-layout-formatting
 featured: true
 draft: false
 tags:
@@ -11,7 +11,7 @@ ogImage: ""
 description: layout for blog posts
 ---
 
-## table of contents
+## Table of contents
 
 ### other elements
 
